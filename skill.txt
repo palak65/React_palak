@@ -1,0 +1,110 @@
+*Internet of Things (IoT):
+
+1.How do IoT devices communicate and share data with each other?
+-> IoT is the connection of devices over the internet, where these smart devices communicate with 
+   each other , exchange data ,perform some tasks without any human involvement.
+-> IoT devices share this data through an IoT gateway or platform or another IoT device.
+   Data is typically sent to the cloud for storage and analysis.
+
+2.How is IoT technology being used to create smart cities and improve urban
+  living?
+
+-> A smart city uses Internet of Things (IoT) sensors in urban areas to collect data and 
+   automate systems such as traffic, energy use, and waste management. By doing so, smart cities 
+   the efficiency of urban services, reduce costs, and deliver a higher standard of living.
+
+*Artificial Intelligence (AI):
+
+1. How is AI transforming industries like healthcare, finance, and
+   transportation?
+-> AI transforms the finance industry by improving risk management, fraud detection, and 
+   investment strategies. AI algorithms can analyze financial data to identify patterns and 
+   make predictions, helping businesses and individuals make informed decisions.
+
+*Cybersecurity:
+
+1.How does encryption work to protect data?
+-> Encryption is used to protect data from being stolen, changed, or compromised and works 
+   by scrambling data into a secret code that can only be unlocked with a unique digital key.
+
+2.What are the challenges in securing the Internet of Things (IoT) devices?
+->
+-Botnets
+-Ransomware
+-IoT security awareness
+-shadow iot
+-weak passwords
+-Insecure interfaces
+-limited device management
+-insecure communications
+-insecure data transfer and storage
+-Lack of secure update mechanism
+-physical safety risks
+-data privacy
+-Insufficient privacy protection
+-Security threats
+-weak Authenticaton
+-Use of insecure or outdated components
+-5G vulnerabilities
+-Advanced persistent threats
+-Data leaks from IoT systems
+-DNS threats
+-Espionage and eavesdropping
+-IoT physical security
+-IoT security awareness
+-Lack of compliance
+
+*Blockchain and Cryptocurrencies:
+
+1.How does blockchain technology ensure the security and integrity of
+  transactions?
+->It uses cybersecurity frameworks, assurance services and best practices to reduce risks 
+  against attacks and fraud. Blockchain technology produces a structure of data with inherent 
+  security qualities. It's based on principles of cryptography, decentralization and consensus, 
+  which ensure trust in transactions.
+
+2.How do cryptocurrencies like Bitcoin and Ethereum differ from traditional
+  currencies?
+->Cryptocurrencies have no legislated or intrinsic value; 
+  they are simply worth what people are willing to pay for them in the market. 
+  This is in contrast to national currencies, which get part of their value from 
+  being legislated as legal tender.
+
+*Big Data and Analytics:
+
+1.What are the privacy concerns associated with big data collection and
+  usage?
+-> Big data poses various concerns, notably privacy, and data exploitation. 
+   Big data privacy concerns refer to the threats and risks associated with collecting, storing, 
+   analyzing, and using vast amounts of personal information in the era of data-driven decision-making.
+
+*Virtual Reality (VR) and Augmented Reality (AR)
+
+1.How do VR and AR technologies create immersive experiences?
+->Augmented reality (AR) and virtual reality (VR) are two principal types of immersive technologies. 
+  These technologies share many of the same qualities. AR blends computer-generated information onto 
+  the user's real environment, while VR uses computer-generated information to provide a full sense of 
+  immersion.
+
+2.What are the applications of VR and AR in fields like education,
+  entertainment, and healthcare?
+->Beyond gaming, augmented reality (AR) and virtual reality (VR) have a significant impact on 
+  education through immersive learning, support industrial training needs, facilitate manufacturing 
+  prototyping, enhance retail with virtual try-ons, aid in healthcare training, and 
+  transform real estate tours
+
+
+
+*5G Technology:
+1.How does 5G technology different from previous generations of mobile networks?
+->5G can be significantly faster than 4G, delivering up to 20 Gigabits-per-second (Gbps) peak 
+  data rates and 100+ Megabits-per-second (Mbps) average data rates. 5G has more capacity than 4G. 
+  5G is designed to support a 100x increase in traffic capacity and network efficiency. 
+  5G has lower latency than 4G.
+
+* Robotics:
+1.How are robots being used in industries such as manufacturing, healthcare,
+  and agriculture?
+->Robots are widely used in automotive assembly lines for welding, painting, pick-and-place tasks, and 
+  quality control. Healthcare: Robots aid surgeons in surgeries, ensuring faster recovery. 
+  Robotic exoskeletons assist rehabilitation and help patients regain mobility post-injury.
